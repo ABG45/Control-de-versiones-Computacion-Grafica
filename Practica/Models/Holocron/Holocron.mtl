@@ -1,0 +1,33 @@
+# Materiales del Holocron - colores planos, sin texturas externas
+newmtl Holocron_Main.001
+Ka 0.050 0.040 0.020
+Kd 0.290 0.220 0.110
+Ks 0.600 0.520 0.300
+Ns 120.0
+d 1.0
+illum 2
+
+newmtl Holocron_Corners.001
+Ka 0.080 0.060 0.020
+Kd 0.720 0.550 0.200
+Ks 0.900 0.800 0.500
+Ns 220.0
+d 1.0
+illum 2
+
+newmtl Holocron_Inside.001
+Ka 0.150 0.090 0.020
+Kd 0.900 0.560 0.150
+Ks 0.400 0.300 0.150
+Ns 60.0
+d 1.0
+illum 2
+
+newmtl Crystal.001
+Ka 0.300 0.200 0.050
+Kd 1.000 0.750 0.300
+Ks 1.000 1.000 0.900
+Ke 0.900 0.600 0.150
+Ns 360.0
+d 1.0
+illum 2

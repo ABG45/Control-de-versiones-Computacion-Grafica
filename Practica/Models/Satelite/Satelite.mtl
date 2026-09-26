@@ -1,0 +1,32 @@
+# Materiales del satelite - colores planos (el MTL original venia todo en negro)
+newmtl VRayMtl1SG
+Ka 0.120 0.090 0.030
+Kd 0.780 0.600 0.220
+Ks 0.900 0.800 0.550
+Ns 180.0
+d 1.0
+illum 2
+
+newmtl VRayMtl2SG
+Ka 0.120 0.120 0.130
+Kd 0.780 0.780 0.800
+Ks 0.500 0.500 0.520
+Ns 90.0
+d 1.0
+illum 2
+
+newmtl VRayMtl3SG
+Ka 0.020 0.030 0.070
+Kd 0.090 0.140 0.380
+Ks 0.700 0.750 0.900
+Ns 250.0
+d 1.0
+illum 2
+
+newmtl VRayMtl4SG
+Ka 0.080 0.080 0.080
+Kd 0.450 0.460 0.480
+Ks 0.400 0.400 0.400
+Ns 60.0
+d 1.0
+illum 2
